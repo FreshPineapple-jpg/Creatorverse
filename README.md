@@ -35,9 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿
-
-![Loading GIF](https://i.imgur.com/a/RXeWini.gif)
+👉🏿<img src='./CreatorverseGIF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 [LICEcap](https://www.cockos.com/licecap/)
