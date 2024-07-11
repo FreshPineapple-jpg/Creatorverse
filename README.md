@@ -35,7 +35,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿![Creatorverse GIF]https://imgur.com/a/RXeWini.gif
+👉🏿
+![Loading GIF]https://imgur.com/a/RXeWini.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 [LICEcap](https://www.cockos.com/licecap/)
