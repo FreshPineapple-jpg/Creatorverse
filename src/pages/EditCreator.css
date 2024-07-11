@@ -1,0 +1,27 @@
+.form-group {
+    margin-bottom: 20px;
+    text-align: left;
+    margin-left: 35%;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-group textarea {
+    width: 50%;
+    resize: both;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  .update-button{
+    margin-left: 45%;
+}
+
+.delete-button{
+    margin-left: 5%;
+}

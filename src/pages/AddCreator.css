@@ -1,0 +1,24 @@
+/* EditCreator.css */
+.form-group {
+    margin-bottom: 20px;
+    text-align: right;
+    margin-left: 35%;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-group textarea {
+    width: 75%; 
+    resize: both;
+  }
+  
+.center-button{
+    margin-left: 48%;
+}
+
+  
+
+  
